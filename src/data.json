@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Flying",
+    "subtitle": "Stockholm - Tokyo",
+    "from": "2023-09-27T07:55:00.000Z",
+    "to": "2023-09-27T22:55:00.000Z"
+  },
+  {
+    "title": "Japan",
+    "subtitle": "Tokyo",
+    "from": "2023-09-27T22:55:00.000Z",
+    "to": "2023-10-01T01:30:00.000Z"
+  },
+  {
+    "title": "Flying",
+    "subtitle": "Tokyo - Fukuoka",
+    "from": "2023-10-01T01:30:00.000Z",
+    "to": "2023-10-01T03:25:00.000Z"
+  },
+  {
+    "title": "Japan",
+    "subtitle": "Fukuoka",
+    "from": "2023-10-01T03:25:00.000Z",
+    "to": "2023-10-31T11:50:00.000Z"
+  },
+  {
+    "title": "Flying",
+    "subtitle": "Fukuoka - Bangkok",
+    "from": "2023-10-31T11:50:00.000Z",
+    "to": "2023-10-31T22:10:00.000Z"
+  },
+  {
+    "title": "Thailand",
+    "subtitle": "Chiang Mai",
+    "from": "2023-10-31T22:10:00.000Z",
+    "to": "2023-12-01T00:00:00.000Z"
+  },
+  {
+    "title": "Thailand",
+    "subtitle": "Koh Phangan",
+    "from": "2023-12-01T00:00:00.000Z",
+    "to": "2023-12-08T00:00:00.000Z"
+  },
+  {
+    "title": "Thailand",
+    "subtitle": "Koh Phangan",
+    "from": "2023-12-08T00:00:00.000Z",
+    "to": "2023-12-17T00:00:00.000Z"
+  },
+  {
+    "title": "Thailand",
+    "subtitle": "Bangkok",
+    "from": "2023-12-17T00:00:00.000Z",
+    "to": "2023-12-24T00:45:00.000Z"
+  },
+  {
+    "title": "Flying",
+    "subtitle": "Bangkok - Manila",
+    "from": "2023-12-24T00:45:00.000Z",
+    "to": "2023-12-24T03:55:00.000Z"
+  },
+  {
+    "title": "Indonesia",
+    "subtitle": "Manilla",
+    "from": "2023-12-24T03:55:00.000Z",
+    "to": "2024-01-04T19:40:00.000Z"
+  },
+  {
+    "title": "Flying",
+    "subtitle": "Philippines - Hawaii",
+    "from": "2024-01-04T19:40:00.000Z",
+    "to": "2024-01-05T17:25:00.000Z"
+  },
+  {
+    "title": "Hawaii, USA",
+    "subtitle": "Honolulu",
+    "from": "2024-01-05T17:25:00.000Z",
+    "to": "2024-01-11T09:30:00.000Z"
+  },
+  {
+    "title": "Flying",
+    "subtitle": "Hawaii - San Francisco",
+    "from": "2024-01-11T09:30:00.000Z",
+    "to": "2024-01-11T14:35:00.000Z"
+  },
+  {
+    "title": "California, USA",
+    "subtitle": "San Francisco",
+    "from": "2024-01-11T14:35:00.000Z",
+    "to": "2024-01-17T17:40:00.000Z"
+  },
+  {
+    "title": "Flying",
+    "subtitle": "San Francisco - Washington DC",
+    "from": "2024-01-17T17:40:00.000Z",
+    "to": "2024-01-17T22:46:00.000Z"
+  },
+  {
+    "title": "Washington DC, USA",
+    "subtitle": "Murrica",
+    "from": "2024-01-17T22:46:00.000Z",
+    "to": "2024-01-22T00:08:00.000Z"
+  },
+  {
+    "title": "Flying",
+    "subtitle": "Washington DC - New York",
+    "from": "2024-01-22T00:08:00.000Z",
+    "to": "2024-01-22T10:25:00.000Z"
+  },
+  {
+    "title": "New York, USA",
+    "subtitle": "New York City",
+    "from": "2024-01-22T10:25:00.000Z",
+    "to": "2024-01-25T00:50:00.000Z"
+  },
+  {
+    "title": "Flying",
+    "subtitle": "New York - Stockholm",
+    "from": "2024-01-25T00:50:00.000Z",
+    "to": "2024-01-26T05:30:00.000Z"
+  }
+]
