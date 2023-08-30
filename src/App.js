@@ -19,8 +19,8 @@ function App() {
         flexDirection: "column",
       }}
     >
-      <div style={{ fontSize: 36, fontWeight: "bold" }}>{title}</div>
-      <div style={{ fontSize: 24, fontWeight: "bold" }}>{subtitle}</div>
+      <div style={{ fontSize: 48, fontWeight: "bold" }}>{title}</div>
+      <div style={{ fontSize: 36, fontWeight: "bold" }}>{subtitle}</div>
     </div>
   );
 }
