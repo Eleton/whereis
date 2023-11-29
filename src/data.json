@@ -33,18 +33,18 @@
     "title": "Thailand",
     "subtitle": "Chiang Mai",
     "from": "2023-10-31T22:10:00.000Z",
-    "to": "2023-12-01T00:00:00.000Z"
+    "to": "2023-11-30T09:00:00.000Z"
+  },
+  {
+    "title": "Vietnam",
+    "subtitle": "Danang",
+    "from": "2023-11-30T09:00:00.000Z",
+    "to": "2023-12-02T11:00:00.000Z"
   },
   {
     "title": "Thailand",
     "subtitle": "Koh Phangan",
-    "from": "2023-12-01T00:00:00.000Z",
-    "to": "2023-12-08T00:00:00.000Z"
-  },
-  {
-    "title": "Thailand",
-    "subtitle": "Koh Phangan",
-    "from": "2023-12-08T00:00:00.000Z",
+    "from": "2023-12-02T11:00:00.000Z",
     "to": "2023-12-17T00:00:00.000Z"
   },
   {
